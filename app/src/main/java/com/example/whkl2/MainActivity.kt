@@ -3,11 +3,8 @@ package com.example.whkl2
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import android.webkit.URLUtil
-
 import android.widget.Button
 import android.widget.ImageView
-import androidx.core.view.isInvisible
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.activity_main.*
 
